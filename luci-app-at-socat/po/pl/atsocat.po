@@ -28,14 +28,14 @@ msgstr "Wyślij polecenie"
 msgid "Reply"
 msgstr "Odpowiedź" 
 
-msgid "User interface for sending AT commands using atinout utility."
-msgstr "Interfejs użytkownika do wysyłania poleceń AT za pomocą atinout."
+msgid "User interface for sending AT commands using socat utility."
+msgstr "Interfejs użytkownika do wysyłania poleceń AT za pomocą socat."
 
-msgid "Configuration atinout"
-msgstr "Konfiguracja atinout"
+msgid "Configuration socat"
+msgstr "Konfiguracja socat"
 
-msgid "Configuration panel for atinout."
-msgstr "Panel ustawień dla programu atinout oraz dla interfejsu użytkownika."
+msgid "Configuration panel for socat."
+msgstr "Panel ustawień dla programu socat oraz dla interfejsu użytkownika."
 
 msgid "Port for communication with the modem"
 msgstr "Port do komunikacji z modemem"
@@ -46,8 +46,8 @@ msgstr "Wybierz jeden z dostępnych portów ttyUSBX."
 msgid "Please select a port"
 msgstr "Proszę wybrać port"
 
-msgid "Each line must have the following format: 'At command description;AT command'. For user convenience, the file is saved to the location <code>/etc/modem/atinoutatcommands.user</code>."
-msgstr "Każda linijka powinna mieć następujący format: 'Opis polecenia AT;polecenie AT'. Dla wygody użytkownika polecenia zapisywane są w pliku <code>/etc/modem/atinoutatcommands.user</code>."
+msgid "Each line must have the following format: 'At command description;AT command'. For user convenience, the file is saved to the location <code>/etc/modem/atsocatcommands.user</code>."
+msgstr "Każda linijka powinna mieć następujący format: 'Opis polecenia AT;polecenie AT'. Dla wygody użytkownika polecenia zapisywane są w pliku <code>/etc/modem/atsocatcommands.user</code>."
 
 msgid "Press [Enter] to send the command, press [Delete] to delete the command"
 msgstr "Wciśnij [Enter] aby wysłać polecenie, wciśnij [Delete] aby usunąć"
